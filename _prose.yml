@@ -1,2 +1,9 @@
 prose:
+  rooturl: 'investigations'
   media: '/assets/investigations'
+  metadata:
+    investigations:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'blog'
