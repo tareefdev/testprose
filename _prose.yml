@@ -1,3 +1,4 @@
+baseurl: /starter
 prose:
   rooturl: 'investigations'
   siteurl: 'http://prose.github.io/starter/'
@@ -9,5 +10,3 @@ prose:
         field:
           element: 'hidden'
           value: 'blog'
-site:
-  baseurl: 'https://tareefdev.com/'
